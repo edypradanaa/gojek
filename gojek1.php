@@ -2,8 +2,8 @@
 
 error_reporting(0);
 include ("func.php");
-echo "\e                             GOJEK VERSI KNTL 1.7.5            \n";
-echo "\e                     SCRIPT GOJEK GA TAU DARI EDY NIH COBA DULU\n";
+echo "\e               GOJEK VERSI KNTL 1.7.5            \n";
+echo "\e    SCRIPT GOJEK GA TAU DARI EDY NIH COBA DULU\n";
 echo "\n";
 nope:
 echo "\e[?] Masukkan Nomor HP Anda Wajib no +62 : ";
